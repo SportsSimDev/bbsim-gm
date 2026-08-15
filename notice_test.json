@@ -1,0 +1,20 @@
+{
+    "ios": {
+    "id": 2026081501,
+    "type": "info",
+    "title": "Test:のお知らせ",
+    "message": "いつも「ベストシミュレーションプロ野球 GM編」をプレイしていただきありがとうございます！\n\nv1.0.0がリリースされたのでお知らせします。\n\nこれからどんどん機能追加していきますので、お楽しみに！\n\n　開発スタッフ一同。\n",
+    "url": "itms-apps://itunes.apple.com/app/id6797856201",
+    "urlLabel": "App Storeを開く",
+    "isCritical": false
+    },
+  "android": {
+    "id": 2026081401,
+    "type": "info",
+    "title": "Test:のお知らせ",
+    "message": "いつも「ベストシミュレーションプロ野球 GM編」をプレイしていただきありがとうございます！\n\nv1.0.0がリリースされたのでお知らせします。\n\nこれからどんどん機能追加していきますので、お楽しみに！\n\n　開発スタッフ一同。\n",
+    "url": "market://details?id=com.bbsimgm.app",
+    "urlLabel": "Google Play ストアを開く",
+    "isCritical": false
+  }
+}
