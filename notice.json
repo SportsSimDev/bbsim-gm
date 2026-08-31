@@ -6,5 +6,11 @@
     "url": "itms-apps://itunes.apple.com/app/id6797856201",
     "urlLabel": "App Storeを開く","isCritical": false,
     "type": "info"
+  },
+    "android": {
+    "id": 2026083101,
+    "title": "ダウンロードありがとうございます",
+    "message": "GM編ベストシミュレーションプロ野球をダウンロードいただきありがとうございます。\n\n現在、Google社で広告準備中につき「シーズン全スキップ」など一部機能に制限があります。\n\n大変申し訳ありませんが、今少しお待ちいただきたくお願いいたします。\n",
+    "type": "info"
   }
 }
